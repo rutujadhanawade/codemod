@@ -2,6 +2,9 @@
 We want to make contributing to this project as easy and transparent as
 possible.
 
+## Code of Conduct
+While contributing to this repo, code of conduct should be maintained. The code of conduct is described in [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
+
 ## Pull Requests
 We actively welcome your pull requests.
 
